@@ -1,2 +1,3 @@
 # DL-CV
-deep learning and computer vision projects
+Deep learning and computer vision projects.
+My first LSTM model of stock price prediction.
